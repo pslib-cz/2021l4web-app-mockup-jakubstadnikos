@@ -8,14 +8,17 @@
 ## Dúležité věci
 
 ## Navigační lišta
-```<div class="nav-box">
+```html
+    <div class="nav-box">
         <a href="#"><img src="./svg/home.svg" alt=""></a>
         <a href="#"><img src="./svg/heart.svg" alt=""></a>
         <a href="#"><img src="./svg/messages.svg" alt=""></a>
         <a href="#"><img src="./svg/search.svg" alt=""></a>
         <a href="#"><img src="./svg/person.svg" alt=""></a>
     </div>
-    Style
+    ```
+    ###Style
+    ```css
     .nav-box{
     position: fixed;
     bottom: 0;
