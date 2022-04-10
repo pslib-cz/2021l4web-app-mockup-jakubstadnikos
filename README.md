@@ -41,6 +41,9 @@ p{
     line-height: 17px;
     letter-spacing: 2px;
 }
+.shadow{
+    box-shadow: var(--shadow) 0 3px 6px;
+}
 ```
 
 ## Dúležité věci
