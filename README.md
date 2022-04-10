@@ -46,7 +46,7 @@ p{
 }
 ```
 
-## Dúležité věci
+
 
 ## Header
 ```html
