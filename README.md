@@ -4,6 +4,44 @@
 - V této aplikaci si najdou někoho, kdo vyměnuje hračku dle jejich představ a domluví se na výměně
 - Do svého profilu si přidají své hračky, které pak vidí osatní lidé, poté si budou dopisovat v aplikaci a domluví výměnu 
 ## Vlastnosti
+```css
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100;300;400;600;700;800&display=swap');
+/* font-family: 'Epilogue', sans-serif; */
+:root{
+    --white: #FFFFFF;
+    --shadow: #1a17411f;
+    --light-gray: #F7F7F7;
+    --gray-background: #F2F2F2;
+    --black: #1A1741;
+    --dark-gray: #484848;
+    --purple: #A540E9;
+    --pink: #FF1495;
+    --blue-text: #5BC2F9;
+    --gray-text: #E5E5E5;
+}
+body{
+    background-color: var(--gray-background);
+    margin: 0;
+    font-family: 'Epilogue', sans-serif; 
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+.white{
+    color: var(--white);
+}
+.black{
+    color: var(--black);
+}
+p{
+    font-size: 16px;
+    line-height: 17px;
+    letter-spacing: 2px;
+}
+```
 
 ## Dúležité věci
 
