@@ -149,8 +149,8 @@ p{
 - Tlačítko kontaktovat: přesune na chat s inzertem.
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
 ## Profil inzerta
-– Zde se nachází jméno a fotografie inzerta, s krátkým popiskem.
-– Jednotlivé inzeráty, které osoba nabízí.
+- Zde se nachází jméno a fotografie inzerta, s krátkým popiskem.
+- Jednotlivé inzeráty, které osoba nabízí.
     - Tlačítko zjistit více –> přesměruje vás na více informací o produktu.
     - Tlačítko kontaktovat –> přesměruje vás na chat s konkrétní osobou.
 - Líbí se je místo kde jsou ukázány vaše produkty, které se osobě líbí.
