@@ -102,11 +102,10 @@ p{
 ## Úvodní stránka
 - Nacházejí se zde nejnovější objevy, mezi kterými se dá procházet. Pokud posunute obrázek do leva, tak se vám věc nelíbí a pokud posunute do prava, tak o ní máte zájem. 
 - Tlačítko Info: vás přesměruje na více informací o produktu. 
-- Tlačítko srdce: znamená, že se vám produkt líbí
-- Tlačítko křížek: produkt se vám nelíbí
+- Tlačítko srdce: znamená, že se vám produkt líbí.
+- Tlačítko křížek: produkt se vám nelíbí.
+- Obrázek na pozadí: `background-image: url(../svg/background-diagonal-large.svg);`
 ![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609725-4e1ebdae-69d5-4007-9a9e-31c17e75ad25.jpg)
-Obrázek na pozadí: `background-image: url(./svg/bakcground-diagonal-large.svg)`
-
 ### Vyhledávat
 - Zde se dá vyhledávat konkrétní kategorie, která vás zajímá.
 ### Kategorie
@@ -116,17 +115,21 @@ Obrázek na pozadí: `background-image: url(./svg/bakcground-diagonal-large.svg)
 - Jednotlivé produkty se dají rozkliknout na stránku s více informacemi o produktu.
 - Jednotlivé profily inzertů se dají rozkliknout.
 - Tlačítko kontakt vás převede na chat s konkrétní osobou.
+- Obrázek na pozadí: `background-image: url(../svg/background-chat.svg);`
 ## Stránka chatty
 - Nacházejí se zde jendotlivé chatty s inzerty.
+- Obrázek na pozadí: `background-image: url(../svg/background-chat.svg);`
 ### Nové shody
 - Zde jsou vypsány nové shody. Tj. profily, se kterými se vám navzájem líbí produkty.
 ### Líbí se vaše produkty
 - Zde jsou vypsány profily, kterým se líbil váš produkt a vy můžete rozkliknout jejich profil, zda se vám nelíbí něco z jejich nabídky. 
 ## Stránka vyhledávání
 - Zde se nachází vyhledávání různých kategorií, o které byste mohli mít zájem.
+- Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
 ## Stránka můj osobní profil 
 - Zde je váš osobní profil.
 - Jméno, fotografie, krátký popisek, tlačítko filtrování, co vás zajímá a vaše inzeráy.
+- Obrázek na pozadí: `background-image: url(../svg/background-gradient.svg);`
 ### Filtrovat výběr
 - Zde můžete zaškrtnout kategorie, které vás zajímají, například: oblečení, hračky...
 - Věkové hranice: 8-12 let, 2-3 roky.
@@ -137,9 +140,11 @@ Obrázek na pozadí: `background-image: url(./svg/bakcground-diagonal-large.svg)
 ## Nový inzerát
 - Přidání nového inzerátu.
 - Popisek, kategorie, fotografie, stav, lokalita.
-## Detailní inzerát hračky
+- Obrázek na pozadí: `background-image: url(../svg/background-gradient.svg);`
+## Inzerát hračky
 - zde se nachází detailní popis inzerátů.
 - Fotografie s přidáním do oblíbených.
 - Název, kategorie, popisek, Jméno a fotografie inzerta s prokliknutím na profil. 
 - Tlačítko líbí se mi: přidá inzerát mezi oblíený.
 - Tlačítko kontaktovat: přesune na chat s inzertem.
+- - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
