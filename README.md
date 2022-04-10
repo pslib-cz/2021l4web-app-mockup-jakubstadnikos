@@ -105,6 +105,7 @@ p{
 - Tlačítko srdce: znamená, že se vám produkt líbí
 - Tlačítko křížek: produkt se vám nelíbí
 ![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609725-4e1ebdae-69d5-4007-9a9e-31c17e75ad25.jpg)
+Obrázek na pozadí: `background-image: url(./svg/bakcground-diagonal-large.svg)`
 
 ### Vyhledávat
 - Zde se dá vyhledávat konkrétní kategorie, která vás zajímá.
