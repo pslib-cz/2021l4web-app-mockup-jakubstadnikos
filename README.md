@@ -147,4 +147,4 @@ p{
 - Název, kategorie, popisek, Jméno a fotografie inzerta s prokliknutím na profil. 
 - Tlačítko líbí se mi: přidá inzerát mezi oblíený.
 - Tlačítko kontaktovat: přesune na chat s inzertem.
-- - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
+- Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
