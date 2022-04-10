@@ -16,9 +16,9 @@
         <a href="#"><img src="./svg/search.svg" alt=""></a>
         <a href="#"><img src="./svg/person.svg" alt=""></a>
     </div>
-    ```
+```
     ###Style
-    ```css
+```css
     .nav-box{
     position: fixed;
     bottom: 0;
