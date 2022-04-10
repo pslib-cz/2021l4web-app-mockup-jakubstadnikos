@@ -7,6 +7,29 @@
 
 ## Dúležité věci
 
+## Header
+```html
+<header class="top-header">
+        <div class="header-box">
+            <h1 class="header-title">SwapIT</h1>
+        </div>
+ </header>
+```
+```css
+.header-box{
+    width: 100vw;
+    background-color: #ffffff50;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0 0 12px 12px;
+    box-shadow: var(--shadow) 0 3px 6px;
+}
+.header-title{
+    color: var(--white);
+}
+```
 ## Navigační lišta
 ```html
     <div class="nav-box">
@@ -17,7 +40,7 @@
         <a href="#"><img src="./svg/person.svg" alt=""></a>
     </div>
 ```
-    ###Style
+
 ```css
     .nav-box{
     position: fixed;
