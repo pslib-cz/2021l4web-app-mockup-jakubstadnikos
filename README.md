@@ -8,13 +8,36 @@
 ## Dúležité věci
 
 ## Navigační lišta
+`<div class="nav-box">
+        <a href="#"><img src="./svg/home.svg" alt=""></a>
+        <a href="#"><img src="./svg/heart.svg" alt=""></a>
+        <a href="#"><img src="./svg/messages.svg" alt=""></a>
+        <a href="#"><img src="./svg/search.svg" alt=""></a>
+        <a href="#"><img src="./svg/person.svg" alt=""></a>
+    </div>`
+    Style
+    `.nav-box{
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    background-color: var(--light-gray);
+    height: 80px;
+    border-radius: 30px 30px 0 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
+}
+.nav-box a{
+    padding: 10px;
+}`
 ## Úvodní stránka
 – Nacházejí se zde nejnovější objevy, mezi kterými se dá procházet. Pokud posunute obrázek do leva, tak se vám věc nelíbí a pokud posunute do prava, tak o ní máte zájem. 
 – Tlačítko Info: vás přesměruje na více informací o produktu. 
 – Tlačítko srdce: znamená, že se vám produkt líbí
 – Tlačítko křížek: produkt se vám nelíbí
-![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609085-dd5406c1-c3fc-4aaa-8f17-1c82c6621a80.png
+![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609725-4e1ebdae-69d5-4007-9a9e-31c17e75ad25.jpg)
+
 ### Vyhledávat
 – Zde se dá vyhledávat konkrétní kategorie, která vás zajímá
 ### Kategorie
