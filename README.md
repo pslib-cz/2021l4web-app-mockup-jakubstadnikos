@@ -14,9 +14,9 @@
         <a href="#"><img src="./svg/messages.svg" alt=""></a>
         <a href="#"><img src="./svg/search.svg" alt=""></a>
         <a href="#"><img src="./svg/person.svg" alt=""></a>
-    </div>```
+    </div>
     Style
-    ```.nav-box{
+    .nav-box{
     position: fixed;
     bottom: 0;
     width: 100vw;
@@ -30,7 +30,8 @@
 }
 .nav-box a{
     padding: 10px;
-}```
+}
+```
 ## Úvodní stránka
 – Nacházejí se zde nejnovější objevy, mezi kterými se dá procházet. Pokud posunute obrázek do leva, tak se vám věc nelíbí a pokud posunute do prava, tak o ní máte zájem. 
 – Tlačítko Info: vás přesměruje na více informací o produktu. 
