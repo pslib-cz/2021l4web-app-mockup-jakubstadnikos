@@ -101,9 +101,9 @@ p{
 ```
 ## Úvodní stránka
 - Nacházejí se zde nejnovější objevy, mezi kterými se dá procházet. Pokud posunute obrázek do leva, tak se vám věc nelíbí a pokud posunute do prava, tak o ní máte zájem. 
-- Tlačítko Info: vás přesměruje na více informací o produktu. `info-main.svg`
-- Tlačítko srdce: znamená, že se vám produkt líbí. `like-main.svg`
-- Tlačítko křížek: produkt se vám nelíbí. `dislike-main.svg`
+- Tlačítko Info: vás přesměruje na více informací o produktu. Název souboru: `info-main.svg`
+- Tlačítko srdce: znamená, že se vám produkt líbí. Název souboru: ``like-main.svg``
+- Tlačítko křížek: produkt se vám nelíbí. Název souboru: `dislike-main.svg`
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal-large.svg);`
 ![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609725-4e1ebdae-69d5-4007-9a9e-31c17e75ad25.jpg)
 - SVG pro t
