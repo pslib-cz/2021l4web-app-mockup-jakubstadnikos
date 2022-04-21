@@ -121,7 +121,7 @@ kategorie-sport.svg
 ```
 ### Možnosti vyhledávání
 - Obrázek na pozadí: `moznosti-vyhledávání.svg`
-### Design
+#### Design
 [Domovská stránka.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534275/Domovska.stranka.pdf)
 ## Stránka líbí se mi
 - Zde se nacházejí jednotlivé produkty s profily, které se vám v minulosti líbily.
@@ -129,7 +129,7 @@ kategorie-sport.svg
 - Jednotlivé profily inzertů se dají rozkliknout.
 - Tlačítko kontakt vás převede na chat s konkrétní osobou.
 - Obrázek na pozadí: `background-image: url(../svg/background-chat.svg);`
-### Design
+#### Design
 [Líbí se mi.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534273/Libi.se.mi.pdf)
 ## Stránka chatty
 - Nacházejí se zde jendotlivé chatty s inzerty.
@@ -138,20 +138,20 @@ kategorie-sport.svg
 - Zde jsou vypsány nové shody. Tj. profily, se kterými se vám navzájem líbí produkty.
 ### Líbí se vaše produkty
 - Zde jsou vypsány profily, kterým se líbil váš produkt a vy můžete rozkliknout jejich profil, zda se vám nelíbí něco z jejich nabídky. 
-### Design
+#### Design
 [Chatty.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534265/Chatty.pdf)
-### Design chattu
+#### Design chattu
 [Chat.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534267/Chat.pdf)
 ## Stránka vyhledávání
 - Zde se nachází vyhledávání různých kategorií, o které byste mohli mít zájem.
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
-### Design
+#### Design
 [Vyhledávání.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534263/Vyhledavani.pdf)
 ## Stránka můj osobní profil 
 - Zde je váš osobní profil.
 - Jméno, fotografie, krátký popisek, tlačítko filtrování, co vás zajímá a vaše inzeráy.
 - Obrázek na pozadí: `background-image: url(../svg/background-gradient.svg);`
-### Design
+#### Design
 [Osobní profil.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534257/Osobni.profil.pdf)
 ### Filtrovat výběr
 - Zde můžete zaškrtnout kategorie, které vás zajímají, například: oblečení, hračky...
@@ -164,7 +164,7 @@ kategorie-sport.svg
 - Přidání nového inzerátu.
 - Popisek, kategorie, fotografie, stav, lokalita.
 - Obrázek na pozadí: `background-image: url(../svg/background-gradient.svg);`
-### Design
+#### Design
 [Nový inzerát.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534231/Novy.inzerat.pdf)
 ## Inzerát hračky
 - zde se nachází detailní popis inzerátů.
@@ -173,7 +173,7 @@ kategorie-sport.svg
 - Tlačítko líbí se mi: přidá inzerát mezi oblíený.
 - Tlačítko kontaktovat: přesune na chat s inzertem.
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
-### Design
+#### Design
 [Hračka.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534249/Hracka.pdf)
 ## Profil inzerta
 - Zde se nachází jméno a fotografie inzerta, s krátkým popiskem.
@@ -182,5 +182,5 @@ kategorie-sport.svg
     - Tlačítko kontaktovat –> přesměruje vás na chat s konkrétní osobou.
 - Líbí se je místo kde jsou ukázány vaše produkty, které se osobě líbí.
 - Obrázek na pozadí: `background-image: url(../svg/background-profil.svg);`
-### Design
+#### Design
 [Profil inzerta.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534195/Profil.inzerta.pdf)
