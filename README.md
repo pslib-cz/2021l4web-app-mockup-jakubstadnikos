@@ -106,11 +106,21 @@ p{
 - Tlačítko křížek: produkt se vám nelíbí. Název souboru: `dislike-main.svg`
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal-large.svg);`
 ![Návrhová plocha 1](https://user-images.githubusercontent.com/79641987/162609725-4e1ebdae-69d5-4007-9a9e-31c17e75ad25.jpg)
-- SVG pro t
-### Vyhledávat
+- Vyhledávání box: `vyhledávat.svg` ikona: `search.svg`
+### Stránka vyhledávat
 - Zde se dá vyhledávat konkrétní kategorie, která vás zajímá.
+- Obrázek na pozadí: `background-image: url(../svg/background-diagonal-small.svg);`
 ### Kategorie
 - Pod vyhledáváním se nacházejí jednotlivé kategorie s produkty a tlačítkem na přidání do oblíbených.
+- Obrázky kategorií: 
+```
+kategorie-hracka.svg
+kategorie-obleceni.svg
+kategorie-obuv.svg
+kategorie-sport.svg
+```
+### Možnosti vyhledávání
+- Obrázek na pozadí: `moznosti-vyhledávání.svg`
 ## Stránka líbí se mi
 - Zde se nacházejí jednotlivé produkty s profily, které se vám v minulosti líbily.
 - Jednotlivé produkty se dají rozkliknout na stránku s více informacemi o produktu.
