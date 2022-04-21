@@ -165,3 +165,4 @@ kategorie-sport.svg
     - Tlačítko zjistit více –> přesměruje vás na více informací o produktu.
     - Tlačítko kontaktovat –> přesměruje vás na chat s konkrétní osobou.
 - Líbí se je místo kde jsou ukázány vaše produkty, které se osobě líbí.
+- Obrázek na pozadí: `background-image: url(../svg/background-profil.svg);`
