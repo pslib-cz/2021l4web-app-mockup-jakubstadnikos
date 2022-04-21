@@ -161,8 +161,10 @@ kategorie-sport.svg
 - Obrázek na pozadí: `background-image: url(../svg/background-diagonal.svg);`
 ## Profil inzerta
 - Zde se nachází jméno a fotografie inzerta, s krátkým popiskem.
+
 - Jednotlivé inzeráty, které osoba nabízí.
     - Tlačítko zjistit více –> přesměruje vás na více informací o produktu.
     - Tlačítko kontaktovat –> přesměruje vás na chat s konkrétní osobou.
 - Líbí se je místo kde jsou ukázány vaše produkty, které se osobě líbí.
 - Obrázek na pozadí: `background-image: url(../svg/background-profil.svg);`
+- [Profil inzerta.pdf](https://github.com/pslib-cz/2021l4web-app-mockup-jakubstadnikos/files/8534195/Profil.inzerta.pdf)
