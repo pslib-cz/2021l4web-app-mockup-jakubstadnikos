@@ -1,0 +1,7 @@
+<svg id="Component_21_1" data-name="Component 21 – 1" xmlns="http://www.w3.org/2000/svg" width="88" height="89" viewBox="0 0 88 89">
+  <g id="Ellipse_3" data-name="Ellipse 3" fill="#fff" stroke="rgba(209,209,209,0.48)" stroke-width="7">
+    <ellipse cx="44" cy="44.5" rx="44" ry="44.5" stroke="none"/>
+    <ellipse cx="44" cy="44.5" rx="40.5" ry="41" fill="none"/>
+  </g>
+  <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M32.505,4.4a9.615,9.615,0,0,0-13.12.956L18,6.785,16.615,5.358A9.615,9.615,0,0,0,3.495,4.4,10.1,10.1,0,0,0,2.8,19.02L16.4,33.068a2.2,2.2,0,0,0,3.185,0L33.195,19.02A10.09,10.09,0,0,0,32.505,4.4Z" transform="translate(26.001 26.752)" fill="#9fdbb3"/>
+</svg>

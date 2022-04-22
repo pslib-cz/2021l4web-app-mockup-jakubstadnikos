@@ -1,0 +1,10 @@
+<svg id="Component_15_1" data-name="Component 15 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="116" height="116" viewBox="0 0 116 116">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.889" y1="0.059" x2="-0.078" y2="1.173" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fee356"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_4" data-name="Rectangle 4" width="116" height="116" rx="25" fill="url(#linear-gradient)"/>
+  <path id="Icon_map-clothing-store" data-name="Icon map-clothing-store" d="M91.746,18.009a2.154,2.154,0,0,1-.381,1.724L80.558,35.815a2.4,2.4,0,0,1-1.947.962,5.592,5.592,0,0,1-.98-.1l-8.662-2.125v38.1a1.927,1.927,0,0,1-2.005,2.005H24.855a1.927,1.927,0,0,1-2.005-2.005v-38.1L15.07,36.7a1.833,1.833,0,0,1-2.186-.862L2.157,19.794a2.021,2.021,0,0,1-.281-1.684,1.956,1.956,0,0,1,1.1-1.283L24.855,6.48H34.881a1.916,1.916,0,0,1,2.005,2.005c0,4.131,5.795,7.058,9.925,7.058s10.126-2.907,10.126-7.058A1.927,1.927,0,0,1,58.942,6.48H68.968L90.623,16.626a2.157,2.157,0,0,1,1.123,1.384Z" transform="translate(11.698 17.02)" fill="none" stroke="#000" stroke-linejoin="round" stroke-width="5"/>
+</svg>

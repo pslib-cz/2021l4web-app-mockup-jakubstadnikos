@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="378" height="357" viewBox="0 0 378 357">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.842" y1="0.151" x2="0.082" y2="0.951" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cb7ef1"/>
+      <stop offset="1" stop-color="#6767fa"/>
+    </linearGradient>
+    <filter id="toy3" x="0" y="0" width="378" height="357" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#toy3)">
+    <rect id="toy3-2" data-name="toy3" width="360" height="339" rx="24" transform="translate(9 6)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
